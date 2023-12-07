@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balaji-Ranganathan
-- 👀 I’m interested in data warehouse, analytics and data technoliges
-- 🌱 I’m currently learning Azure data services, Snowflake and dbt.
+- 👀 I’m interested in data warehouse, lakehouse analytics and emerging data technoliges
+- 🌱 I’m currently learning Azure data services, databricks, Microsoft Fabric, Snowflake and dbt.
 - 💞️ I’m looking to collaborate on Azure data services.
 - 📫 How to reach me linkedin.com/balajirangan
 
